@@ -1,4 +1,4 @@
-# GraphicsRenderer
+# Graphics Engine
 
 This is very much a WIP project where I make a graphics engine. This is for fun, but also has been teaching me a lot about graphics engine architecture,
 how they function, how to make things efficient, as well as other things. Below is a list of completed things, current tasks, and future goals!
