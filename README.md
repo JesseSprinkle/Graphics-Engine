@@ -18,8 +18,8 @@ more efficient.
 2. Rework materials, separate them from things like position and rotation. I don't particularly like the current design.
 
 ### Goals
-1. Option to choose shader rather than have it designated. The current designated shader (based on what you based like if it's 3D, 2D etc) will become the default shader
-when you make an object so it can be rendered, but it can be replaced (under certain restrictions).
+1. Option to choose shader rather than have it designated. The current designated shader (based on what the object is like if it's 3D, 2D etc) will become the default shader
+so an object can be rendered without having to have a shader assigned, but the default can be replaced (under certain restrictions).
 2. Mesh loading from a file. This should be rather easy.
 3. Storing object data in a file, so I can reload the objects being rendered dynamically rather than having to recompile if I want to change something.
 4. UI, stuff like sliders and dragging object around. This is probably far down the line.
