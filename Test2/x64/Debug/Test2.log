@@ -1,0 +1,16 @@
+﻿  Callbacks.cpp
+  Main.cpp
+  Renderable.cpp
+  Renderer.cpp
+  Root.cpp
+  WorldRenderable.cpp
+H:\Documents\source\repos\Test2\Test2\WorldRenderable.cpp(7,2): error C2248: 'Renderable::programType': cannot access private member declared in class 'Renderable'
+H:\Documents\source\repos\Test2\Test2\Renderable.h(15): message : see declaration of 'Renderable::programType'
+H:\Documents\source\repos\Test2\Test2\Renderable.h(12): message : see declaration of 'Renderable'
+H:\Documents\source\repos\Test2\Test2\WorldRenderable.cpp(8,19): error C2248: 'Renderable::addToRenderables': cannot access private member declared in class 'Renderable'
+H:\Documents\source\repos\Test2\Test2\Renderable.h(16): message : see declaration of 'Renderable::addToRenderables'
+H:\Documents\source\repos\Test2\Test2\Renderable.h(12): message : see declaration of 'Renderable'
+H:\Documents\source\repos\Test2\Test2\WorldRenderable.cpp(30,7): error C2248: 'Renderable::programType': cannot access private member declared in class 'Renderable'
+H:\Documents\source\repos\Test2\Test2\Renderable.h(15): message : see declaration of 'Renderable::programType'
+H:\Documents\source\repos\Test2\Test2\Renderable.h(12): message : see declaration of 'Renderable'
+  Generating Code...
